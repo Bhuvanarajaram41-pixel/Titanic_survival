@@ -101,5 +101,6 @@ The model successfully classified passenger survival with an accuracy of approxi
 Bhuvaneshwari R
 
 First-year Computer Science Engineering (AI & ML) Student
+SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY, CHENNAI
 
 Learning and building Machine Learning projects using Python and Scikit-learn.
